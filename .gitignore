@@ -1,0 +1,7 @@
+# Ignore all log files
+*.ipch
+*.db
+*.pch
+
+# Ignore a specific large file
+path/to/large_file.zip
